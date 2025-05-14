@@ -9,9 +9,9 @@ Repositório original com os dados de teste: https://github.com/codecon-dev/desa
 ## Resultados
 | ENDPOINT/QTD HORAS            | **1 HORA** | **2 HORAS** | **4 HORAS** |
 |-------------------------------|:----------:|:-----------:|:-----------:|
-| **POST /users**               |      ✅     |      ❔      |      ❔      |
-| **GET /superusers**           |      ✅     |      ❔      |      ❔      |
-| **GET /top-countries**        |      ✅     |      ❔      |      ❔      |
-| **GET /team-insights**        |      ❌     |      ❔      |      ❔      |
-| **GET /active-users-per-day** |      ❌     |      ❔      |      ❔      |
-| **GET /evaluation**           |      ❌     |      ❔      |      ❔      |
+| **POST /users**               |      ✅     |      ✅      |      ❔      |
+| **GET /superusers**           |      ✅     |      ✅      |      ❔      |
+| **GET /top-countries**        |      ✅     |      ✅      |      ❔      |
+| **GET /team-insights**        |      ❌     |      ✅      |      ❔      |
+| **GET /active-users-per-day** |      ❌     |      ✅      |      ❔      |
+| **GET /evaluation**           |      ❌     |      ❌      |      ❔      |
